@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\ChineseFireball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|solutionrelative:FantasticBeastsProject\\ChineseFireball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\Dragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|solutionrelative:FantasticBeastsProject\\Dragon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\HungarianHorntail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|solutionrelative:FantasticBeastsProject\\HungarianHorntail.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\ChineseFireball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|solutionrelative:FantasticBeastsProject\\ChineseFireball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\HungarianHorntail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|solutionrelative:FantasticBeastsProject\\HungarianHorntail.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\Dragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{030778F6-327F-49B8-8820-B13D6CBC1E77}|FantasticBeastsProject\\FantasticBeastsProject.vcxproj|solutionrelative:FantasticBeastsProject\\Dragon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 325,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChineseFireball.h",
+              "DocumentMoniker": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\ChineseFireball.h",
+              "RelativeDocumentMoniker": "FantasticBeastsProject\\ChineseFireball.h",
+              "ToolTip": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\ChineseFireball.h",
+              "RelativeToolTip": "FantasticBeastsProject\\ChineseFireball.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T05:07:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dragon.h",
+              "DocumentMoniker": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\Dragon.h",
+              "RelativeDocumentMoniker": "FantasticBeastsProject\\Dragon.h",
+              "ToolTip": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\Dragon.h",
+              "RelativeToolTip": "FantasticBeastsProject\\Dragon.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T05:07:53.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HungarianHorntail.h",
+              "DocumentMoniker": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\HungarianHorntail.h",
+              "RelativeDocumentMoniker": "FantasticBeastsProject\\HungarianHorntail.h",
+              "ToolTip": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\HungarianHorntail.h",
+              "RelativeToolTip": "FantasticBeastsProject\\HungarianHorntail.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T05:07:52.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChineseFireball.cpp",
+              "DocumentMoniker": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\ChineseFireball.cpp",
+              "RelativeDocumentMoniker": "FantasticBeastsProject\\ChineseFireball.cpp",
+              "ToolTip": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\ChineseFireball.cpp",
+              "RelativeToolTip": "FantasticBeastsProject\\ChineseFireball.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T05:07:51.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HungarianHorntail.cpp",
+              "DocumentMoniker": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\HungarianHorntail.cpp",
+              "RelativeDocumentMoniker": "FantasticBeastsProject\\HungarianHorntail.cpp",
+              "ToolTip": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\HungarianHorntail.cpp",
+              "RelativeToolTip": "FantasticBeastsProject\\HungarianHorntail.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T05:07:43.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dragon.cpp",
+              "DocumentMoniker": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\Dragon.cpp",
+              "RelativeDocumentMoniker": "FantasticBeastsProject\\Dragon.cpp",
+              "ToolTip": "C:\\Users\\GreeneBernard\\OneDrive - University of Wisconsin-Stout\\Desktop\\CS244\\Visual Studio Code\\FantasticBeastsProject\\FantasticBeastsProject\\Dragon.cpp",
+              "RelativeToolTip": "FantasticBeastsProject\\Dragon.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T05:00:21.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

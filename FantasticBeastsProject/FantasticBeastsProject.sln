@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FantasticBeastsProject", "FantasticBeastsProject\FantasticBeastsProject.vcxproj", "{030778F6-327F-49B8-8820-B13D6CBC1E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Debug|x64.ActiveCfg = Debug|x64
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Debug|x64.Build.0 = Debug|x64
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Debug|x86.ActiveCfg = Debug|Win32
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Debug|x86.Build.0 = Debug|Win32
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Release|x64.ActiveCfg = Release|x64
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Release|x64.Build.0 = Release|x64
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Release|x86.ActiveCfg = Release|Win32
+		{030778F6-327F-49B8-8820-B13D6CBC1E77}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {386EEDF7-6CFF-440C-9BEB-4A0B3B64F0F4}
+	EndGlobalSection
+EndGlobal
